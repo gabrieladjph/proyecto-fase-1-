@@ -68,10 +68,12 @@
 
 
 </div>
+<div>
 			<div class="campo">
 				<label for="text">Telefono</label>
 				<input type="text" name="Telefono" maxlength="20" class="form-imput" placeholder="Numero de Telefono" required>
 			</div>
+		</div>
 			<div class="campo">
 				<label for="text">Nacionalidad</label>
 				<select name="" id="city" id="id required">
